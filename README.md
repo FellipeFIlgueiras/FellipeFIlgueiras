@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FellipeFIlgueiras
+- 👀 I’m interested in Software Engineer
+- 🌱 I’m currently learning about data sctructure and algorithms
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me: fellipealvesdesouza@gmail.com
